@@ -38,7 +38,7 @@ img{width:100%}
 #right form button[type="submit"]{background:linear-gradient(135deg,#4183d7 0%,#6c9 100%);padding:5px;border:none;border-radius:50px;color:#fff;font-weight:400;font-size:12pt;margin-top:10px}
 #right form button[type="submit"]:hover{background:transparent;box-shadow:0 0 0 3px #4183d7;color:#4183d7}
 
-dotlottie-player{position:absolute;top:49%;left:53%;z-index:9;width:200px;height:200px}
+dotlottie-player{position:absolute;  bottom: 31%;left:53%;z-index:9;width:200px;height:200px}
 
 
 @media (max-width: 1800px) {
