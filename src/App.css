@@ -41,7 +41,7 @@ img{width:100%}
 dotlottie-player{position:absolute;top:49%;left:53%;z-index:9;width:200px;height:200px}
 
 
-@media (max-width: 1400px) {
+@media (max-width: 1800px) {
     .mainContainer{width:90vw;height:95vh;position:relative}
     
     .firstShirt {
