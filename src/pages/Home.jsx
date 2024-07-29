@@ -206,7 +206,7 @@ const Home = () => {
                 <img src={b11} alt="b2" />
             </div>
         </div>
-        <div className='twelveShirt shirtImg' onClick={()=>handleProduct('b12')}>
+        {/* <div className='twelveShirt shirtImg' onClick={()=>handleProduct('b12')}>
             <img src={b12} alt="b2" />
             <div className="hoverImg">
                 <img src={b12} alt="b2" />
@@ -229,7 +229,7 @@ const Home = () => {
             <div className="hoverImg">
                 <img src={b15} alt="b2" />
             </div>
-        </div>
+        </div> */}
         
         
         
